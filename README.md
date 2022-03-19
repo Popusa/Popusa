@@ -1,6 +1,6 @@
 ### Hi there! 👋 My name is Daniel Youssef :nerd_face:
-- :computer: I am a front-end web developer,
-- :pizza: a hobbyist food reviewer,
-- :video_game: a gamer,
-- :open_book: and an avid reader.
-- Reach out to me through <a href = "https://www.linkedin.com/in/daniel-youssef-46a49721b/" target = "_blank" rel="noopener noreferrer">My Linkedin</a>
+- :computer: <strong>I am a front-end web developer,</strong>
+- :pizza: <strong>a hobbyist food reviewer,</strong>
+- :video_game: <strong>a gamer,</strong>
+- :open_book: <strong>and an avid reader.</strong>
+- <strong>Reach out to me through </strong> <a href = "https://www.linkedin.com/in/daniel-youssef-46a49721b/" target = "_blank" rel="noopener noreferrer">My Linkedin</a>
