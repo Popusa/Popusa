@@ -1,5 +1,5 @@
 ### Hi there! 👋 My name is Daniel Youssef :nerd_face:
-- :computer: <strong>I am a Data Scientist looking for work.</strong>
+- :computer: <strong>I am a Data Scientist who's currently looking for work.</strong>
 - :world_map: <strong>I am also a language learner,</strong>
 - :video_game: <strong>a gamer,</strong>
 - :open_book: <strong>and an avid reader.</strong>
