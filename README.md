@@ -1,4 +1,4 @@
-### Hi there! 👋 My name is Daniel Youssef :nerd_face:
+### Hi there! 👋 My name is Daniel :nerd_face:
 - :computer: <strong>I am a Software Engineer, and a Data Professional who's currently looking for work.</strong>
 - :world_map: <strong>I am also a language learner,</strong>
 - :video_game: <strong>a gamer,</strong>
