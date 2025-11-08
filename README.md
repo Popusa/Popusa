@@ -3,4 +3,4 @@
 - :world_map: <strong>I am also a language learner,</strong>
 - :video_game: <strong>a gamer,</strong>
 - :open_book: <strong>and an avid reader.</strong>
-- <strong>Reach out to me through </strong> <a href = "https://www.linkedin.com/in/daniel-maged-youssef/" target = "_blank" rel="noopener noreferrer">My Linkedin</a>
+- <strong>Reach out to me through </strong> <a href = "https://www.linkedin.com/in/daniel-maged-ln/" target = "_blank" rel="noopener noreferrer">My Linkedin</a>
