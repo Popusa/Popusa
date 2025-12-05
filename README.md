@@ -1,4 +1,4 @@
-### Hello. My name is Daniel.
+### Hello. My name is Dan.
 
 <strong>I am a tech who loves to learn new things.</strong>
 
